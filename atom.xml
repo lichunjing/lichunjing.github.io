@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Liris&#39;</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://lichunjing.github.io/"/>
+  <updated>2016-08-13T09:41:47.076Z</updated>
+  <id>http://lichunjing.github.io/</id>
+  
+  <author>
+    <name>Liris</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>My Title</title>
+    <link href="http://lichunjing.github.io/2016/06/06/template-post/"/>
+    <id>http://lichunjing.github.io/2016/06/06/template-post/</id>
+    <published>2016-06-05T16:00:00.000Z</published>
+    <updated>2016-08-13T09:41:47.076Z</updated>
+    
+    <content type="html"><![CDATA[<p>My first post.<br><a id="more"></a><br>哈哈哈</p>
+<h1 id="AA"><a href="#AA" class="headerlink" title="AA"></a>AA</h1><h2 id="AA-1"><a href="#AA-1" class="headerlink" title="AA"></a>AA</h2><h3 id="AA-2"><a href="#AA-2" class="headerlink" title="AA"></a>AA</h3><h4 id="AA-3"><a href="#AA-3" class="headerlink" title="AA"></a>AA</h4>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;My first post.&lt;br&gt;
+    
+    </summary>
+    
+      <category term="CCC" scheme="http://lichunjing.github.io/categories/CCC/"/>
+    
+    
+      <category term="XXX" scheme="http://lichunjing.github.io/tags/XXX/"/>
+    
+  </entry>
+  
+</feed>
